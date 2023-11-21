@@ -22,6 +22,7 @@ nav ul li{
   height:300px;
   width:300px;
   border-radius:80℅;
+  position:center;
 }
 #Bio p{
   margin:center;
